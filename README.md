@@ -1,6 +1,6 @@
 # About me
 
-<div style="padding-top:50.000%;position:relative;"><iframe src="https://gifer.com/embed/72uG" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+![Hello there](imgs/helloThere.gif)
 
 I'm Abdul, I'm an Enthusiastic flutter developer, with a good understanding of native android development. I love to experiment and learn new technologies and consistently work towards improving my code.
 My current knowledge base includes :
