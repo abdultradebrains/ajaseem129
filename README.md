@@ -1,6 +1,6 @@
 # About me
 
-![Hello there](imgs/helloThere.gif)
+<img src="imgs/helloThere.gif" height='100%' width='100%'>
 
 I'm Abdul, I'm an Enthusiastic flutter developer, with a good understanding of native android development. I love to experiment and learn new technologies and consistently work towards improving my code.
 My current knowledge base includes :
