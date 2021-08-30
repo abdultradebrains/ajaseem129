@@ -11,6 +11,8 @@ My current knowledge base includes :
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ajaseem129.ajaseem129)
 
+<img src="https://github-readme-stats.vercel.app/api?username=ajaseem129&show_icons=true&theme=dark" alt="ajaseem129" align="right" width="50%" />
+
 ## What do I do now?
 
 I currently work as a flutter developer, building an amazing application and learning flutter as a whole in the process while also brushing up on best practices and improving on past mistakes.
