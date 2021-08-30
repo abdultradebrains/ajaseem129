@@ -9,6 +9,8 @@ My current knowledge base includes :
 - Backend Development using NodeJS
 - Frontend Web Development using ReactJs
 
+![](https://visitor-badge.glitch.me/badge?page_id=ajaseem129.ajaseem129)
+
 ## What do I do now?
 
 I currently work as a flutter developer, building an amazing application and learning flutter as a whole in the process while also brushing up on best practices and improving on past mistakes.
