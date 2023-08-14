@@ -2,20 +2,23 @@
 
 <img src="imgs/helloThere.gif" height='100%' width='100%'>
 
-I'm Abdul, I'm an Enthusiastic flutter developer, with a good understanding of native android development. I love to experiment and learn new technologies and consistently work towards improving my code.
+I'm Abdul, I'm an Enthusiastic developer who dabbles in a little bit of everything. I love to experiment and learn new technologies and consistently work towards improving my code.
 My current knowledge base includes :
 
 - Android App Development using Java/Kotlin and Flutter
-- Backend Development using NodeJS
-- Frontend Web Development using ReactJs
+- Backend Development using NodeJS and Python/Django(Advanced)
+- Frontend Web Development using ReactJs and NextJS
+- A little bit of .NET, just enough to build a CLI App to automate a task
+- The Ability to fix up my servers just as fast as they went down
 
 ## What do I do now?
 
-I currently work as a flutter developer, building an amazing application and learning flutter as a whole in the process while also brushing up on best practices and improving on past mistakes.
+I currently work as a Tech Lead at Tradebrains, building tech that scales and meets deadlines that would otherwise be deemed impossible 🤣.
+A question that would arise from going through my GitHub would be the lack of projects, which is a little bit of a work in progress. Expect to see some more work here soon!!!!
 
 ## Where am I headed?
 
-There's so much yet to be explored and I am the explorer. I work towards a future where I travel the world, trying out new cuisines, making new friends, learning different languages(Not just programming languages for once :joy: ) and so much more.
+There's so much yet to be explored and I am the explorer. I work towards a future where I travel the world, try out new cuisines, make new friends, learn different languages(Not just programming languages for once :joy: ) and so much more.
 
 ## My interests?
 
